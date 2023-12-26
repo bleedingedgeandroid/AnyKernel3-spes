@@ -3,7 +3,6 @@
 
 ### AnyKernel setup
 # begin properties
-. build_info.sh
 
 properties() { '
 kernel.string=spes/spesn Kernel. Version '"${KVERSION}"'. CI build: '"${CI_BUILDNO}-${CI_BUILDSUFFIX}"'  | Source by @muralivijay9845 | Compiled by @PugzAreCute
