@@ -5,7 +5,7 @@
 # begin properties
 
 properties() { '
-kernel.string=spes/spesn Kernel. Version '"$KVERSION"'. CI build: '"$CI_BUILDNO-$CI_BUILDSUFFIX"'  | Source by @muralivijay9845 | Compiled by @PugzAreCute
+kernel.string=spes/spesn Kernel. Version '$KVERSION'. CI build: '$CI_BUILDNO'-'$CI_BUILDSUFFIX'  | Source by @muralivijay9845 | Compiled by @PugzAreCute
 do.devicecheck=1
 do.modules=0
 do.systemless=0
